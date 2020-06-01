@@ -1,14 +1,14 @@
 {
-  "name": "onsen-dark",
+  "name": "onsen-light",
   "version": "1.0.0",
-  "description": "Cordova dark app Template using onsenui",
+  "description": "Cordova light app Template using onsenui",
   "main": "index.js",
   "scripts": {
     "test": "start"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onsengui/onsen-dark.git"
+    "url": "git+https://github.com/onsengui/onsen-light.git"
   },
   "keywords": [
     "cordova:template",
@@ -19,7 +19,7 @@
   "author": "atik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onsengui/onsen-dark/issues"
+    "url": "https://github.com/onsengui/onsen-light/issues"
   },
-  "homepage": "https://github.com/onsengui/onsen-dark#readme"
+  "homepage": "https://github.com/onsengui/onsen-light#readme"
 }

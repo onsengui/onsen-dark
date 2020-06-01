@@ -1,7 +1,7 @@
 {
-  "name": "Onsen-Dark",
+  "name": "Onsen-Light",
   "version": "1.0.0",
-  "description": "Cordova dark template using onsenui: cordova_template",
+  "description": "Cordova Light template using onsenui: cordova_template",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
