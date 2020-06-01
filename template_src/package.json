@@ -1,7 +1,7 @@
 {
-  "name": "Onsen-Light",
+  "name": "21",
   "version": "1.0.0",
-  "description": "Cordova Light template using onsenui: cordova_template",
+  "description": "Cordova 21 template ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
